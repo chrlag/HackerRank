@@ -1,2 +1,3 @@
 # HackerRank
-HackerRank solutions w/ Java
+
+A repository for Java solutions on HackerRank's problems.
