@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class 2D_Array_DS {
+public class Array2D_DS {
 
     static int hourglassSum(int[][] arr) {
         int max = -1000000000;
