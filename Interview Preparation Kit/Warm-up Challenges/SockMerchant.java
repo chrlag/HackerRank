@@ -8,7 +8,6 @@ import java.util.regex.*;
 
 public class SockMerchant {
 
-    // Complete the sockMerchant function below.
     static int sockMerchant(int n, int[] ar) {
         HashMap<Integer, Integer> hm = new HashMap<Integer, Integer>();
 
